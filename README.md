@@ -13,3 +13,5 @@ Repositório criado para o desafio de Projeto
 
 [SHA1] (https://pt.wikipedia.org/wiki/SHA-1)
 
+[Comandos basicos terminal Linux] (https://www.devmedia.com.br/comandos-importantes-linux/23893)
+
