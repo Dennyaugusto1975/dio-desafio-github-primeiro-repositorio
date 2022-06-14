@@ -1,0 +1,21 @@
+Download GIT: https://gitforwindows.org/
+
+comando dir           mostra os diretórios existentes na pasta;
+cd                    muda o diretório;
+mkdir                 cria uma nova pasta;
+git init              inicia o git dentro da pasta;
+ls -a                 visualiza pasta oculta .git;
+cd .git               muda pra pasta .git;
+cd..                  volta um nível;
+git config            -global user.email "email" - adiciona o email;
+git config            -global user.name nome - adiciona o nome;
+git add*              adicionar tudo;
+git commit -m         commit inicial - commitar
+git push origin main  enviar o commit para o github
+tab                   preenche automatico exemplo "W --indws"
+cls                   limpa pasta da tela
+ctrl + l              limpa tudo
+-a                    revela arquivos ocultos pasta ".git"  ex:c:/workspace/livro-receitas/.git
+
+
+
